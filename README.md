@@ -21,6 +21,7 @@ There were several adjustments made to each evaluation in an effort to improve t
 
 ![NNCAL](https://user-images.githubusercontent.com/93561592/166169222-e08b3be7-d045-42e8-b0cf-07b24dbf9813.PNG)
 
-Unfortunately, the accuracy target of 75% was not acheived during the optimization phase.
+At only 53.32%, the accuracy target of 75% was, unfortunately, not achieved during the optimization phase.
 
 ## Summary
+Even after three new evaluations, the model's accuracy was only 53.32%, and would not be a very good tool for achieving its intended purpose.  There are obviously other steps that could be taken to achieve the desired accuracy of 75%, I'm just not quite sure what they are.
